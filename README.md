@@ -6,7 +6,7 @@ To enable real-time traffic sign detection and classification, establish a Bluet
 
 ## Project Roadmap
 
-![Project Roadmap2](https://github.com/notkevin1/TrafficSignDetection/blob/master/trafficSignProjectRoadmap%20final.png)
+![Project Roadmap](https://github.com/notkevin1/TrafficSignDetection/blob/master/trafficSignProjectRoadmap%20final.png)
 
 ## Hardware Requirements: 
 * Raspberry Pi Camera Module V1 (5MP)
