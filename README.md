@@ -13,6 +13,6 @@ To enable real-time traffic sign detection and classification, establish a Bluet
 * Raspberry Pi Model 3 B+
 
 ## Software Dependencies: 
-* OpenCV-Python
+* OpenCV-Python - https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
 * LISA Traffic Sign Dataset
-* TensorFlow
+* TensorFlow - https://www.tensorflow.org/install
